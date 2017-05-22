@@ -30,7 +30,7 @@ include_once('fb-login.php');
 
 			
         		<?php
-        			echo '<a href="logout.php" class="myButton"> <button class="box-in"> Logout with Facebook  </button>  </a>';
+        			echo '<a href="logout.php" class="myButton"> <button class="box-in"> Logout from Facebook  </button>  </a>';
         		?>
     		
 
